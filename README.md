@@ -5,15 +5,6 @@
 
 ## Installation
 
-``` bash
-# clone the repository with SSH (access private)
-$ git clone git@github.com:XMART-PET/risk-analysis-backoffice.git
-
-or
-
-# clone the repository with HTTPS (access private)
-$ git clone https://github.com/XMART-PET/risk-analysis-backoffice.git
-
 # go into app's directory
 $ cd risk-analysis-backoffice
 
