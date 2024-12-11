@@ -1,0 +1,1406 @@
+[
+  {
+    "date": "2023-12-01",
+    "exchange": "17.373",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-04",
+    "exchange": "17.2143",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-05",
+    "exchange": "17.406",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-06",
+    "exchange": "17.4215",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-07",
+    "exchange": "17.2685",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-08",
+    "exchange": "17.4197",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-11",
+    "exchange": "17.3688",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-13",
+    "exchange": "17.447",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-14",
+    "exchange": "17.398",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-15",
+    "exchange": "17.299",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-18",
+    "exchange": "17.1908",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-19",
+    "exchange": "17.2277",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-20",
+    "exchange": "17.0652",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-21",
+    "exchange": "17.0673",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-22",
+    "exchange": "17.059",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-26",
+    "exchange": "16.9738",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-27",
+    "exchange": "16.9727",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-28",
+    "exchange": "16.922",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-29",
+    "exchange": "16.8935",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-02",
+    "exchange": "16.919",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-03",
+    "exchange": "17.0297",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-04",
+    "exchange": "17.0492",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-05",
+    "exchange": "17.0458",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-08",
+    "exchange": "16.8987",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-09",
+    "exchange": "16.8133",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-10",
+    "exchange": "16.9347",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-11",
+    "exchange": "16.9912",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-12",
+    "exchange": "16.9898",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-15",
+    "exchange": "16.858",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-16",
+    "exchange": "16.8983",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-17",
+    "exchange": "17.1598",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-18",
+    "exchange": "17.2957",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-19",
+    "exchange": "17.1995",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-22",
+    "exchange": "17.1325",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-23",
+    "exchange": "17.1125",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-24",
+    "exchange": "17.352",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-25",
+    "exchange": "17.1673",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-26",
+    "exchange": "17.2375",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-29",
+    "exchange": "17.1657",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-30",
+    "exchange": "17.2333",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-31",
+    "exchange": "17.1932",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-01",
+    "exchange": "17.1633",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-02",
+    "exchange": "17.1335",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-06",
+    "exchange": "17.1447",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-07",
+    "exchange": "17.0357",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-08",
+    "exchange": "17.0398",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-09",
+    "exchange": "17.1023",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-12",
+    "exchange": "17.0855",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-13",
+    "exchange": "17.068",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-14",
+    "exchange": "17.1982",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-15",
+    "exchange": "17.1105",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-16",
+    "exchange": "17.068",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-19",
+    "exchange": "17.0602",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-20",
+    "exchange": "17.05",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-21",
+    "exchange": "17.0458",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-22",
+    "exchange": "17.0603",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-23",
+    "exchange": "17.121",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-26",
+    "exchange": "17.126",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-27",
+    "exchange": "17.126",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-28",
+    "exchange": "17.0605",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-02-29",
+    "exchange": "17.0962",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "0024-02-29",
+    "exchange": "17.0605",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-04",
+    "exchange": "17.0217",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-01",
+    "exchange": "17.0633",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-11",
+    "exchange": "17.3688",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-13",
+    "exchange": "17.447",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-01-10",
+    "exchange": "16.9347",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-08",
+    "exchange": "17.406",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2023-12-11",
+    "exchange": "17.3688",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-05",
+    "exchange": "16.9828",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-06",
+    "exchange": "16.9257",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-07",
+    "exchange": "16.8728",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-08",
+    "exchange": "16.877",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-11",
+    "exchange": "16.7985",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-12",
+    "exchange": "16.8083",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-13",
+    "exchange": "16.8272",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-14",
+    "exchange": "16.7127",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-15",
+    "exchange": "16.692",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-19",
+    "exchange": "16.71",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-20",
+    "exchange": "16.8523",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-21",
+    "exchange": "16.759",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-22",
+    "exchange": "16.762",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-25",
+    "exchange": "16.7367",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-26",
+    "exchange": "16.7032",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-03-27",
+    "exchange": "16.678",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-01",
+    "exchange": "16.5323",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-02",
+    "exchange": "16.6578",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-03",
+    "exchange": "16.5673",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-04",
+    "exchange": "16.5415",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-05",
+    "exchange": "16.5173",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-08",
+    "exchange": "16.4758",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-09",
+    "exchange": "16.3357",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-10",
+    "exchange": "16.3932",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-11",
+    "exchange": "16.4883",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-12",
+    "exchange": "16.4583",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-15",
+    "exchange": "16.6693",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-16",
+    "exchange": "16.6815",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-17",
+    "exchange": "17.0252",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-18",
+    "exchange": "16.9948",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-19",
+    "exchange": "17.1145",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-22",
+    "exchange": "17.212",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-23",
+    "exchange": "17.1243",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-24",
+    "exchange": "16.9995",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-25",
+    "exchange": "17.1098",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-26",
+    "exchange": "17.1883",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-29",
+    "exchange": "17.1552",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-04-30",
+    "exchange": "17.0243",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-02",
+    "exchange": "17.0958",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-03",
+    "exchange": "16.9393",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-06",
+    "exchange": "17.0042",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-07",
+    "exchange": "16.8947",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-08",
+    "exchange": "16.9083",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-09",
+    "exchange": "16.9087",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-10",
+    "exchange": "16.866",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-13",
+    "exchange": "16.769",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-14",
+    "exchange": "16.8072",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-15",
+    "exchange": "16.846",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-16",
+    "exchange": "16.6782",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-17",
+    "exchange": "16.6893",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-20",
+    "exchange": "16.6217",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-21",
+    "exchange": "16.5668",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-22",
+    "exchange": "16.6138",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-23",
+    "exchange": "16.6405",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-24",
+    "exchange": "16.6945",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-27",
+    "exchange": "16.7023",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-28",
+    "exchange": "16.6568",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-29",
+    "exchange": "16.7457",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-30",
+    "exchange": "16.95",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-05-31",
+    "exchange": "16.9377",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-03",
+    "exchange": "17.0177",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-04",
+    "exchange": "17.6338",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-05",
+    "exchange": "17.8607",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-06",
+    "exchange": "17.5592",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-07",
+    "exchange": "17.5335",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-10",
+    "exchange": "18.2622",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-11",
+    "exchange": "18.3848",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-12",
+    "exchange": "18.4457",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-13",
+    "exchange": "18.7832",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-14",
+    "exchange": "18.5385",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-17",
+    "exchange": "18.4512",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-18",
+    "exchange": "18.5248",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-19",
+    "exchange": "18.4128",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-20",
+    "exchange": "18.423",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-21",
+    "exchange": "18.4027",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-24",
+    "exchange": "18.1848",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-25",
+    "exchange": "17.9627",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-26",
+    "exchange": "18.1372",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-27",
+    "exchange": "18.2215",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-06-28",
+    "exchange": "18.3773",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-01",
+    "exchange": "18.2478",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-02",
+    "exchange": "18.3897",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-03",
+    "exchange": "18.2485",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-04",
+    "exchange": "18.1355",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-05",
+    "exchange": "18.0958",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-08",
+    "exchange": "18.0977",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-09",
+    "exchange": "18.0095",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-10",
+    "exchange": "17.9428",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-11",
+    "exchange": "17.8288",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-15",
+    "exchange": "17.6502",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-12",
+    "exchange": "17.8192",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-16",
+    "exchange": "17.7837",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-17",
+    "exchange": "17.6795",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-18",
+    "exchange": "17.7438",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-19",
+    "exchange": "17.8907",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-22",
+    "exchange": "17.997",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-23",
+    "exchange": "17.9107",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-24",
+    "exchange": "18.0987",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-25",
+    "exchange": "18.3458",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-26",
+    "exchange": "18.385",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-29",
+    "exchange": "18.4475",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-30",
+    "exchange": "18.6818",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-07-31",
+    "exchange": "18.79",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-01",
+    "exchange": "18.597",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-02",
+    "exchange": "18.706",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-05",
+    "exchange": "19.0442",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-06",
+    "exchange": "19.3905",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-07",
+    "exchange": "19.33",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-08",
+    "exchange": "19.189",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-09",
+    "exchange": "19.09",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-13",
+    "exchange": "19.032",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-14",
+    "exchange": "19.0387",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-12",
+    "exchange": "18.8368",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-15",
+    "exchange": "18.8478",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-16",
+    "exchange": "18.6513",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-19",
+    "exchange": "18.6228",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-20",
+    "exchange": "18.7357",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-21",
+    "exchange": "18.9448",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-22",
+    "exchange": "19.2535",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-23",
+    "exchange": "19.4235",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-26",
+    "exchange": "19.0708",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-27",
+    "exchange": "19.382",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-28",
+    "exchange": "19.6692",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-29",
+    "exchange": "19.6037",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-08-30",
+    "exchange": "19.8168",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-02",
+    "exchange": "19.6535",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-03",
+    "exchange": "19.798",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-04",
+    "exchange": "19.8335",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-06",
+    "exchange": "20.0028",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-09",
+    "exchange": "20.0172",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-05",
+    "exchange": "19.846",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-10",
+    "exchange": "19.8798",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-12",
+    "exchange": "19.5113",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-13",
+    "exchange": "19.5113",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-14",
+    "exchange": "19.3983",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-15",
+    "exchange": "19.342",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-16",
+    "exchange": "19.62",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-17",
+    "exchange": "19.8925",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-18",
+    "exchange": "19.9313",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-13",
+    "exchange": "19.5887",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-11",
+    "exchange": "20.0583",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-12",
+    "exchange": "19.839",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-17",
+    "exchange": "19.2483",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-15",
+    "exchange": "19.5887",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-18",
+    "exchange": "19.267",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-16",
+    "exchange": "19.5887",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-19",
+    "exchange": "19.3033",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-20",
+    "exchange": "19.2773",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-23",
+    "exchange": "19.3725",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-24",
+    "exchange": "19.415",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-25",
+    "exchange": "19.3562",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-26",
+    "exchange": "19.587",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-27",
+    "exchange": "19.629",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-01",
+    "exchange": "19.6697",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-02",
+    "exchange": "19.644",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-09-30",
+    "exchange": "19.6697",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-03",
+    "exchange": "19.3885",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-04",
+    "exchange": "19.4678",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-07",
+    "exchange": "19.2127",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-05",
+    "exchange": "19.4678",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-06",
+    "exchange": "19.4678",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-08",
+    "exchange": "19.3388",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-09",
+    "exchange": "19.3532",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-10",
+    "exchange": "19.4175",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "date": "2024-10-11",
+    "exchange": "19.5113",
+    "status_id": "1",
+    "user_id": "1"
+  }
+]

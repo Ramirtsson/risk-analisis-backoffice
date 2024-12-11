@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mariano Escobedo",
+    "status_id": 1,
+    "address": "lorem ipsum",
+    "user_id": 1
+  },
+  {
+    "name": "Vallejo",
+    "status_id": 1,
+    "address": "lorem ipsum",
+    "user_id": 1
+  },
+  {
+    "name": "AIFA",
+    "status_id": 1,
+    "address": "lorem ipsum",
+    "user_id": 1
+  },
+  {
+    "name": "Culiacán",
+    "status_id": 1,
+    "address": "lorem ipsum",
+    "user_id": 1
+  },
+  {
+    "name": "Lerma",
+    "status_id": 1,
+    "address": "lorem ipsum",
+    "user_id": 1
+  },
+  {
+    "name": "Bradley",
+    "status_id": 1,
+    "address": "lorem ipsum",
+    "user_id": 1
+  }
+]

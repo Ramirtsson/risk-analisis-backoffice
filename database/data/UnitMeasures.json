@@ -1,0 +1,44 @@
+[ 
+    { "code": "1", "name": "Kilogramo", "status_id": "1", "prefix": "KG ", "user_id": "1" 
+    }, 
+    { "code": "2", "name": "GRAMO", "status_id": "1", "prefix": null, "user_id": "1" 
+    },
+    { "code": "3", "name": "METRO LINEAL", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "4", "name": "METRO CUADRADO", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "5", "name": "METRO CÚBICO", "status_id": "1", "prefix": null, "user_id": "1" 
+    },
+    { "code": "6", "name": "PIEZA", "status_id": "1", "prefix": "PZA", "user_id": "1" 
+    }, 
+    { "code": "7", "name": "CABEZA", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "8", "name": "LITRO", "status_id": "1", "prefix": "L  ", "user_id": "1" 
+    }, 
+    { "code": "9", "name": "PAR", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "10", "name": "KILOWATT", "status_id": "1", "prefix": null, "user_id": "1" 
+    },
+    { "code": "11", "name": "MILLAR", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "12", "name": "JUEGO", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "13", "name": "KILOWATT/HORA", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "14", "name": "TONELADA", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "15", "name": "BARRIL", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "16", "name": "GRAMO NETO", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "17", "name": "DECENAS", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "18", "name": "CIENTOS", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "19", "name": "DOCENAS", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "20", "name": "CAJA", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "21", "name": "BOTELLA", "status_id": "1", "prefix": null, "user_id": "1" 
+    }, 
+    { "code": "22", "name": "CARAT", "status_id": "1", "prefix": null, "user_id": "1" } ]

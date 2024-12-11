@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Nacional",
+    "prefix": "MXN",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "description": "Estados Unidos",
+    "prefix": "USD",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "description": "Europea",
+    "prefix": "EUR",
+    "status_id": 1,
+    "user_id": 1
+  }
+]

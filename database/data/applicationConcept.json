@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Revalidacion de Guias",
+      "status_id": "1",
+      "user_id": 1
+    },
+    {
+      "name": "Servicios Extraordinarias",
+      "status_id": "1",
+      "user_id": 1
+    },
+    {
+      "name": "Impuestos y Honorarios",
+      "status_id": "1",
+      "user_id": 1
+    },
+    {
+      "name": "Otros",
+      "status_id": "1",
+      "user_id": 1
+    },
+    {
+      "name": "Desconsolidacion",
+      "status_id": "1",
+      "user_id": 1
+    },
+    {
+      "name": "Maniobras",
+      "status_id": "1",
+      "user_id": 1
+    },
+    {
+      "name": "Rectificación",
+      "status_id": "1",
+      "user_id": 1
+    },
+    {
+      "name": "Anticipos",
+      "status_id": "1",
+      "user_id": 1
+    },
+    {
+      "name": "Anticipo o Preforma",
+      "status_id": "1",
+      "user_id": 1
+    }
+  ]
+  

@@ -1,0 +1,722 @@
+[
+  {
+    "name": "AGUA PRIETA, AGUA PRIETA, SONORA.",
+    "code": "20",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SUBTENIENTE LOPEZ, SUBTENIENTE LOPEZ, QUINTANA ROO.",
+    "code": "50",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD DEL CARMEN, CIUDAD DEL CARMEN, CAMPECHE.",
+    "code": "60",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SEYBAPLAYA, CHAMPOTON, CAMPECHE.",
+    "code": "63",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD JUAREZ, CIUDAD JUAREZ, CHIHUAHUA.",
+    "code": "70",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PUENTE INTERNACIONAL ZARAGOZA-ISLETA, CIUDAD JUAREZ, CHIHUAHUA.",
+    "code": "71",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SAN JERONIMO-SANTA TERESA, CIUDAD JUAREZ, CHIHUAHUA.",
+    "code": "72",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL ABRAHAM GONZALEZ, CIUDAD JUAREZ, CHIHUAHUA.",
+    "code": "73",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "COATZACOALCOS, COATZACOALCOS, VERACRUZ.",
+    "code": "80",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "ISLA PAJARITOS, COATZACOALCOS, VERACRUZ.",
+    "code": "80",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "ENSENADA, ENSENADA, BAJA CALIFORNIA.",
+    "code": "110",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "ISLA DE LOS CEDROS, BAJA CALIFORNIA.",
+    "code": "110",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "GUAYMAS, GUAYMAS, SONORA.",
+    "code": "120",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL IGNACIO PESQUEIRA GARCIA, HERMOSILLO, SONORA.",
+    "code": "121",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PARQUE INDUSTRIAL DYNATECH, HERMOSILLO, SONORA.",
+    "code": "122",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD OBREGON ADYACENTE AL AEROPUERTO DE CIUDAD OBREGON, CAJEME, SONORA.",
+    "code": "123",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LA PAZ, LA PAZ, BAJA CALIFORNIA SUR.",
+    "code": "140",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LOS OLIVOS, LA PAZ, BAJA CALIFORNIA SUR.",
+    "code": "140",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SAN JOSE DEL CABO, LOS CABOS, BAJA CALIFORNIA SUR.",
+    "code": "142",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CABO SAN LUCAS, LOS CABOS, BAJA CALIFORNIA SUR.",
+    "code": "143",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SANTA ROSALIA, MULEGE, BAJA CALIFORNIA SUR.",
+    "code": "144",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LORETO, LORETO, BAJA CALIFORNIA SUR.",
+    "code": "145",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PICHILINGÛE, LA PAZ, BAJA CALIFORNIA SUR.",
+    "code": "147",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "MANZANILLO, MANZANILLO, COLIMA.",
+    "code": "160",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TECOMAN, TECOMAN, COLIMA.",
+    "code": "160",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "MATAMOROS, MATAMOROS, TAMAULIPAS.",
+    "code": "170",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LUCIO BLANCO-LOS INDIOS, MATAMOROS, TAMAULIPAS.",
+    "code": "171",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PUERTO EL MEZQUITAL, MATAMOROS, TAMAULIPAS.",
+    "code": "170",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL SERVANDO CANALES, MATAMOROS, TAMAULIPAS.",
+    "code": "170",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "MAZATLAN, MAZATLAN, SINALOA.",
+    "code": "180",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TOPOLOBAMPO, AHOME, SINALOA.",
+    "code": "183",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL DE CULIACAN, CULIACAN, SINALOA.",
+    "code": "184",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "MEXICALI, MEXICALI, BAJA CALIFORNIA.",
+    "code": "190",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LOS ALGODONES, MEXICALI, BAJA CALIFORNIA.",
+    "code": "192",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SAN FELIPE, MEXICALI, BAJA CALIFORNIA.",
+    "code": "193",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "MEXICO,DISTRITO FEDERAL.",
+    "code": "200",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "IMPORTACION Y EXPORTACION DE CONTENEDORES, CIUDAD DE MEXICO, DISTRITO FEDERAL.",
+    "code": "202",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "NACO, NACO, SONORA.",
+    "code": "220",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "NOGALES, NOGALES, SONORA.",
+    "code": "230",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SASABE, SARIC, SONORA.",
+    "code": "231",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "NUEVO LAREDO, NUEVO LAREDO, TAMAULIPAS.",
+    "code": "240",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "OJINAGA, OJINAGA, CHIHUAHUA.",
+    "code": "250",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PUERTO PALOMAS, PUERTO PALOMAS, CHIHUAHUA.",
+    "code": "260",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PIEDRAS NEGRAS, PIEDRAS NEGRAS, COAHUILA.",
+    "code": "270",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL PLAN DE GUADALUPE, RAMOS ARIZPE, COAHUILA.",
+    "code": "271",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PROGRESO, PROGRESO, YUCATAN.",
+    "code": "280",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL LIC. MANUEL CRESCENCIO REJON, MERIDA, YUCATAN.",
+    "code": "282",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD REYNOSA, CIUDAD REYNOSA, TAMAULIPAS.",
+    "code": "300",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LAS FLORES, RIO BRAVO, TAMAULIPAS.",
+    "code": "302",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL. LUCIO BLANCO, CIUDAD REYNOSA, TAMAULIPAS.",
+    "code": "304",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SALINA CRUZ, SALINA CRUZ, OAXACA.",
+    "code": "310",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL DE OAXACA, SANTA CRUZ XOXOCOTLAN, OAXACA.",
+    "code": "310",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SAN LUIS RIO COLORADO, SAN LUIS RIO COLORADO, SONORA.",
+    "code": "330",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD MIGUEL ALEMAN, CIUDAD MIGUEL ALEMAN, TAMAULIPAS.",
+    "code": "340",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "GUERRERO, GUERRERO, TAMAULIPAS.",
+    "code": "342",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD HIDALGO, CIUDAD HIDALGO, CHIAPAS.",
+    "code": "370",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD TALISMAN, TUXTLA CHICO, CHIAPAS.",
+    "code": "372",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD CUAUHTEMOC, FRONTERA COMALAPA, CHIAPAS.",
+    "code": "376",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PUERTO CHIAPAS, TAPACHULA, CHIAPAS.",
+    "code": "370",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL DE TAPACHULA, TAPACHULA, CHIAPAS.",
+    "code": "370",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TAMPICO, TAMPICO, TAMAULIPAS.",
+    "code": "380",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TECATE, TECATE, BAJA CALIFORNIA.",
+    "code": "390",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TIJUANA, TIJUANA, BAJA CALIFORNIA.",
+    "code": "400",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL ABELARDO L. RODRIGUEZ, TIJUANA, BAJA CALIFORNIA.",
+    "code": "402",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TUXPAN, TUXPAN DE RODRIGUEZ CANO, VERACRUZ.",
+    "code": "420",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "VERACRUZ, VERACRUZ, VERACRUZ.",
+    "code": "430",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL HERIBERTO JARA CORONA, VERACRUZ, VERACRUZ.",
+    "code": "432",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD ACUÑA, CIUDAD ACUÑA, COAHUILA.",
+    "code": "440",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TORREON, TORREON, COAHUILA.",
+    "code": "460",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "GOMEZ PALACIO, GOMEZ PALACIO, DURANGO.",
+    "code": "460",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL GUADALUPE VICTORIA, DURANGO, DURANGO.",
+    "code": "460",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO",
+    "code": "470",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SATELITE, PARA IMPORTACION Y EXPORTACION POR VIA AEREA, AEROPUERTO INTERNACIONAL BENITO JUAREZ DE LA CIUDAD DE MEXICO.",
+    "code": "471",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CENTRO POSTAL MECANIZADO, POR VIA POSTAL Y POR TRAFICO AEREO, AEROPUERTO INTERNACIONAL BENITO JUAREZ DE LA CIUDAD DE MEXICO.",
+    "code": "472",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "GUADALAJARA, TLACOMULCO DE ZUÑIGA, JALISCO.",
+    "code": "480",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PUERTO VALLARTA, PUERTO VALLARTA, JALISCO.",
+    "code": "481",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TERMINAL INTERMODAL FERROVIARIA, GUADALAJARA, JALISCO.",
+    "code": "484",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SONOYTA, SONOYTA, SONORA.",
+    "code": "500",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SAN EMETERIO, GENERAL PLUTARCO ELIAS CALLES, SONORA.",
+    "code": "501",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "SONORA, PITIQUITO, SONORA.",
+    "code": "500",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LAZARO CARDENAS, LAZARO CARDENAS, MICHOACAN.",
+    "code": "510",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL IXTAPA-ZIHUATANEJO, ZIHUATANEJO DE AZUETA, GUERRERO.",
+    "code": "511",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "MONTERREY, GENERAL MARIANO ESCOBEDO, NUEVO LEON.",
+    "code": "520",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL MARIANO ESCOBEDO, APODACA, NUEVO LEON.",
+    "code": "521",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TERMINAL FERROVIARIA DE TRANSPORTE FERROVIARIO MEXICANO, SALINAS VICTORIA, NUEVO LEON.",
+    "code": "523",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CANCUN, CANCUN, QUINTANA ROO.",
+    "code": "530",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL DE COZUMEL, COZUMEL, QUINTANA ROO.",
+    "code": "532",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PUERTO MORELOS, BENITO JUAREZ, QUINTANA ROO.",
+    "code": "533",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "QUERETARO, SANTIAGO DE QUERETARO, QUERETARO.",
+    "code": "640",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERCONTINENTAL DE QUERETARO, MARQUES Y COLON, QUERETARO.",
+    "code": "646",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TIZAYUCA, TIZAYUCA, HIDALGO.",
+    "code": "640",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "MORELIA, MORELIA, MICHOACAN.",
+    "code": "640",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TOLUCA, TOLUCA, ESTADO DE MEXICO.",
+    "code": "650",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CHIHUAHUA, CHIHUAHUA, CHIHUAHUA.",
+    "code": "670",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PARQUE INDUSTRIAL LAS AMERICAS, CHIHUAHUA, CHIHUAHUA.",
+    "code": "671",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL. ROBERTO FIERRO VILLALOBOS, CHIHUAHUA, CHIHUAHUA.",
+    "code": "672",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AGUASCALIENTES, AGUASCALIENTES, AGUASCALIENTES.",
+    "code": "730",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PARQUE MULTIMODAL INTERPUERTO, SAN LUIS POTOSI, SAN LUIS POTOSI.",
+    "code": "731",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL PONCIANO ARRIAGA, SOLEDAD DE GRACIANO SANCHEZ, SAN LUIS POTOSI.",
+    "code": "733",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL. LEOBARDO C. RUIZ, EN CALERA ZACATECAS.",
+    "code": "732",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LA PILA-VILLA, VILLA DE REYES, SAN LUIS POTOSI.",
+    "code": "734",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CHICALOTE, SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES",
+    "code": "730",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL LIC. JESUS TERAN PEREDO, AGUASCALIENTES, AGUASCALIENTES.",
+    "code": "730",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "PUEBLA, HEROICA PUEBLA DE ZARAGOZA, PUEBLA.",
+    "code": "750",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CUERNAVACA, JIUTEPEC, MORELOS.",
+    "code": "751",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "TLAXCALA, ATLANGATEPEC, TLAXCALA.",
+    "code": "752",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL HERMANOS SERDAN, HUEJOTZINGO, PUEBLA",
+    "code": "754",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "LA CELULA, ORIENTAL, PUEBLA",
+    "code": "750",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "COLOMBIA, COLOMBIA, NUEVO LEON.",
+    "code": "800",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "ALTAMIRA, ALTAMIRA, TAMAULIPAS.",
+    "code": "810",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL GENERAL PEDRO JOSE MENDEZ, VICTORIA, TAMAULIPAS.",
+    "code": "810",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CIUDAD CAMARGO, CIUDAD CAMARGO, TAMAULIPAS.",
+    "code": "820",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "DOS BOCAS, PARAISO, TABASCO.",
+    "code": "830",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL C.P.A. CARLOS ROVIROSA PEREZ, CIUDAD DE VILLAHERMOSA, CENTRO, TABASCO.",
+    "code": "831",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "FRONTERA, CENTLA, TABASCO.",
+    "code": "832",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "EL CEIBO, TENOSIQUE, TABASCO.",
+    "code": "834",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "GUANAJUATO, SILAO, GUANAJUATO.",
+    "code": "840",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "CELAYA, CELAYA, GUANAJUATO.",
+    "code": "841",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL DE GUANAJUATO, SILAO, GUANAJUATO.",
+    "code": "842",
+    "status_id": "1",
+    "user_id": "1"
+  },
+  {
+    "name": "AEROPUERTO INTERNACIONAL FELIPE ÁNGELES, SANTA LUCÍA, ZUMPANGO, ESTADO DE MÉXICO",
+    "code": "850",
+    "status_id": "1",
+    "user_id": "1"
+  }
+]

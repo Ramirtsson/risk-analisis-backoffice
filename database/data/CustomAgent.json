@@ -1,0 +1,44 @@
+[
+    {
+        "name": "JOSE MARTIN DOMINGUEZ MURO",
+        "patent":"3296",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "MIGUEL ANDRES GUZMAN MORENO",
+        "patent":"1653",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "SARA ALEJANDRA CRUZ BECERRA",
+        "patent":"1813",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "ALBERTO LUCIO CABEZUT ALBIN",
+        "patent":"1879",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "PAUL ISAAC MARTINEZ AVALOS",
+        "patent":"3416",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "CARLOS JAVIER MARQUEZ PEREZ",
+        "patent":"3716",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "FRANCISCO ALFREDO OLIVA RAMIREZ",
+        "patent":"3542",
+        "status_id": "1",
+        "user_id": 1
+    }
+]

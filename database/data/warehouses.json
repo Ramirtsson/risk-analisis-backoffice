@@ -1,0 +1,92 @@
+    [
+    {
+        "name": "INCOME",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "CCO",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "TAP",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "TERMINAL LOGISTIC",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "NEXEN",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "IMM",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "JC & JF",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "AAACESA",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "TALMA",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "CAMILI",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "WEC",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "BODEGA A&N FORWARDING",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "AEROMEXICO",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "TRANSPORTACION MEXICO EXPRESS SA DE CV",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "CCO SAASA CARGO SA",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "DAF SOLUTIONS",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "LUFTHANSA CARGO SERVICIOS LOGISTICOS DE MEXICO",
+        "status_id": "1",
+        "user_id": 1
+    },
+    {
+        "name": "TAP TMM",
+        "status_id": "1",
+        "user_id": 1
+    }
+]

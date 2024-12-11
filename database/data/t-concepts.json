@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Revalidación",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Inscripción",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Actualización",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Consulta",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Cancelación",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Impuestos",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Diferencia",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Devolucion",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Impuestos y Honorarios",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Financiado",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Honorarios",
+    "status_id": 1,
+    "user_id": 1
+  },
+  {
+    "name": "Revalidación Guia",
+    "status_id": 1,
+    "user_id": 1
+  },
+
+  {
+    "name": "Rectificado",
+    "status_id": 1,
+    "user_id": 1
+  }
+]
